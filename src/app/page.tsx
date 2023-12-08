@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="flex items-center justify-center h-screen ">
+    <div className="flex items-center justify-center h-screen">
       {/* Form */}
       <form className="w-1/3 mx-auto bg-white p-8 shadow-md rounded-md">
         {/* Form title */}
