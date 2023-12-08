@@ -5,7 +5,7 @@ export default function Home() {
       <form className="w-1/3 mx-auto bg-white p-8 shadow-md rounded-md">
         {/* Form title */}
         <div className="text-center font-bold text-3xl mb-3">
-          <h1>Lets Login</h1>
+          <h1>Let's Login</h1>
         </div>
 
         {/* Email input */}
@@ -14,7 +14,7 @@ export default function Home() {
             htmlFor="email"
             className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
           >
-            Your email
+            Email
           </label>
           <input
             type="email"
@@ -30,7 +30,7 @@ export default function Home() {
             htmlFor="password"
             className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
           >
-            Your password
+            Password
           </label>
           <input
             type="password"
